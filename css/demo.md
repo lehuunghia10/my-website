@@ -1,3 +1,0 @@
-$Dmo 
-
-This is test 
